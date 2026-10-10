@@ -1,9 +1,18 @@
 <h1 align="center">sharagin</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,lua" alt="Tech Stack" />
+  <img src="main.gif" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,lua,html" alt="Tech Stack" />
 </p>
 
 ---
 
->  Я кристофер ну ты понял. SAMPик обожаю и кайфую. Я сын косячника.
+```python
+# about_me.py
+
+username = "sharagin"
+stack = ["Python", "C++", "Lua", "HTML"]
+bio = "Ну малагин ты понял. Сын косячника. 2 кристофер молтисанти. НЕ ДОКСЕР!"
